@@ -1,0 +1,16 @@
+D:\Repos\WcfDemo\Client2\bin\Debug\Client2.exe.config
+D:\Repos\WcfDemo\Client2\bin\Debug\Client2.exe
+D:\Repos\WcfDemo\Client2\bin\Debug\Client2.pdb
+D:\Repos\WcfDemo\Client2\bin\Debug\Contracts.dll
+D:\Repos\WcfDemo\Client2\bin\Debug\Contracts.pdb
+D:\Repos\WcfDemo\Client2\obj\x86\Debug\Client2.csprojResolveAssemblyReference.cache
+D:\Repos\WcfDemo\Client2\obj\x86\Debug\Client2.exe
+D:\Repos\WcfDemo\Client2\obj\x86\Debug\Client2.pdb
+D:\GitHub\WCFDemo\Client2\bin\Debug\Client2.exe.config
+D:\GitHub\WCFDemo\Client2\bin\Debug\Client2.exe
+D:\GitHub\WCFDemo\Client2\bin\Debug\Client2.pdb
+D:\GitHub\WCFDemo\Client2\bin\Debug\Contracts.dll
+D:\GitHub\WCFDemo\Client2\bin\Debug\Contracts.pdb
+D:\GitHub\WCFDemo\Client2\obj\x86\Debug\Client2.csprojResolveAssemblyReference.cache
+D:\GitHub\WCFDemo\Client2\obj\x86\Debug\Client2.exe
+D:\GitHub\WCFDemo\Client2\obj\x86\Debug\Client2.pdb

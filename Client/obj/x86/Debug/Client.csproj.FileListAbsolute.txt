@@ -1,0 +1,12 @@
+D:\Repos\WcfDemo\Client\bin\Debug\Client.exe.config
+D:\Repos\WcfDemo\Client\bin\Debug\Client.exe
+D:\Repos\WcfDemo\Client\bin\Debug\Client.pdb
+D:\Repos\WcfDemo\Client\obj\x86\Debug\Client.exe
+D:\Repos\WcfDemo\Client\obj\x86\Debug\Client.pdb
+D:\Repos\WcfDemo\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\GitHub\WCFDemo\Client\bin\Debug\Client.exe.config
+D:\GitHub\WCFDemo\Client\bin\Debug\Client.exe
+D:\GitHub\WCFDemo\Client\bin\Debug\Client.pdb
+D:\GitHub\WCFDemo\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\GitHub\WCFDemo\Client\obj\x86\Debug\Client.exe
+D:\GitHub\WCFDemo\Client\obj\x86\Debug\Client.pdb

@@ -1,0 +1,16 @@
+D:\Repos\WcfDemo\Services\bin\Debug\Services.dll.config
+D:\Repos\WcfDemo\Services\bin\Debug\Services.dll
+D:\Repos\WcfDemo\Services\bin\Debug\Services.pdb
+D:\Repos\WcfDemo\Services\bin\Debug\Contracts.dll
+D:\Repos\WcfDemo\Services\bin\Debug\Contracts.pdb
+D:\Repos\WcfDemo\Services\obj\x86\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Repos\WcfDemo\Services\obj\x86\Debug\Services.dll
+D:\Repos\WcfDemo\Services\obj\x86\Debug\Services.pdb
+D:\GitHub\WCFDemo\Services\bin\Debug\Services.dll.config
+D:\GitHub\WCFDemo\Services\bin\Debug\Services.dll
+D:\GitHub\WCFDemo\Services\bin\Debug\Services.pdb
+D:\GitHub\WCFDemo\Services\bin\Debug\Contracts.dll
+D:\GitHub\WCFDemo\Services\bin\Debug\Contracts.pdb
+D:\GitHub\WCFDemo\Services\obj\x86\Debug\Services.csprojResolveAssemblyReference.cache
+D:\GitHub\WCFDemo\Services\obj\x86\Debug\Services.dll
+D:\GitHub\WCFDemo\Services\obj\x86\Debug\Services.pdb

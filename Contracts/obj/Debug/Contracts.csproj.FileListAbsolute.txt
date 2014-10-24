@@ -1,0 +1,10 @@
+D:\Repos\WcfDemo\Contracts\bin\Debug\Contracts.dll
+D:\Repos\WcfDemo\Contracts\bin\Debug\Contracts.pdb
+D:\Repos\WcfDemo\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Repos\WcfDemo\Contracts\obj\Debug\Contracts.dll
+D:\Repos\WcfDemo\Contracts\obj\Debug\Contracts.pdb
+D:\GitHub\WCFDemo\Contracts\bin\Debug\Contracts.dll
+D:\GitHub\WCFDemo\Contracts\bin\Debug\Contracts.pdb
+D:\GitHub\WCFDemo\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\GitHub\WCFDemo\Contracts\obj\Debug\Contracts.dll
+D:\GitHub\WCFDemo\Contracts\obj\Debug\Contracts.pdb
